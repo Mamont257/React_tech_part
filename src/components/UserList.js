@@ -1,3 +1,7 @@
 export default function UserList() {
-  return <div></div>;
+  return (
+    <div>
+      <ul></ul>
+    </div>
+  );
 }
